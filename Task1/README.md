@@ -1,9 +1,7 @@
 # Задание 1
 
-
 ### Спроектируйте архитектуру системы через год. Составьте диаграмму контейнеров в модели C4.
-[c4 container diagram](https://drive.google.com/file/d/1Wfa4byZKIrX28IFEPe52Tv0PiOMhLDBT/view?usp=sharing)
-
+[Ссылка на c4 container diagram (tab 1)](https://drive.google.com/file/d/1Wfa4byZKIrX28IFEPe52Tv0PiOMhLDBT/view?usp=sharing)
 ### Опишите проблемные места
 - Медленная генерация отчетов
 - Устаревшие технологии
